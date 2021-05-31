@@ -6,7 +6,9 @@ This model uses the SciKit Learn decision tree regressor to predict housing pric
 
 Used train-test-split to generate training and testing data.
 
+Added Mean Absolute Error check.
+
 ### Tools used
 * [pandas](https://pandas.pydata.org/)
 * [scikitlearn](https://scikit-learn.org/stable/)
-* Raw Data from [Kaggle]()
+* Raw Data from [Kaggle](https://www.kaggle.com/dansbecker/melbourne-housing-snapshot)
